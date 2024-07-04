@@ -67,52 +67,47 @@ export default function About({ mode }) {
               initial="hidden"
               whileInView={"show"}
               viewport={{ once: true }}
-              className="right flex flex-col gap-6 items-start px-6 lg:w-[50%] lg:px-20  mx-auto"
+              className="right flex flex-col gap-6 items-start px-6 lg:w-[50%] lg:px-20 mx-auto"
           >
             <div className="opacity-[.7] text-sm flex flex-col gap-4 lg:text-base">
               <p>
-                Greetings! I'm{""}
+                Greetings! I'm
                 <span className="text-myColor font-medium"> Sujith Kumar</span>, a
                 seasoned software engineer and Front End Developer driven by the
-                pursuit of crafting immersive digital experiences. Pursuing  a Masters
-                degree in{" "}
-                <span className="text-myColor font-medium">
-                Applied Computer Science (MACS)
-              </span>{" "}
-                from{" "}
-                <span className="text-myColor font-medium">
-                Concordia University.
-              </span>
-                , my journey into technology began, fueled by an innate curiosity
-                for coding and problem solving. When i see a thing, i just thing about the logic behind it and think about how to code it.
-              </p>{" "}
+                pursuit of crafting immersive digital experiences. Pursuing a Masters
+                degree in
+                <span className="text-myColor font-medium"> Applied Computer Science (MACS) </span>
+                from
+                <span className="text-myColor font-medium"> Concordia University.</span>
+                My journey into technology began, fueled by an innate curiosity
+                for coding and problem solving. When I see something, I just think about the logic behind it and how to code it.
+              </p>
               <p>
-                In the realm of software development, I specialize in{" "}
-                <span className="text-myColor font-medium">Python</span>, adept
+                In the realm of software development, I specialize in
+                <span className="text-myColor font-medium"> Python</span>, adept
                 at transforming conceptual ideas into robust, user-centric
-                solutions. Concurrently, my passion for{" "}
-                <span className="text-myColor font-medium">
-                UI FrontEnd-Developement
-              </span>{" "}
+                solutions. Concurrently, my passion for
+                <span className="text-myColor font-medium"> UI FrontEnd-Development</span>
                 stems from a belief in the power of aesthetics to elevate
                 functionality, creating interfaces that resonate with users on a
                 profound level.
-              </p>{" "}
+              </p>
               <p>
-                Beyond the screen, I find inspiration in{" "}
-                <span className="text-myColor font-medium">Developement</span>. Whether
-                it"s exploring the latest tech trends or immersing myself in
+                Beyond the screen, I find inspiration in
+                <span className="text-myColor font-medium"> Development</span>. Whether
+                it's exploring the latest tech trends or immersing myself in
                 nature, I'm always seeking new sources of creativity and
                 innovation.
               </p>
             </div>
             <button>
               <a
-                  href="../file/Resume_Updated_Software_Developer.pdf"
+                  href="https://sujith-kumar-2003.github.io/file/Resume_Updated_Software_Developer.pdf"
                   target="_blank"
+                  rel="noopener noreferrer"
                   className="bg-myColor rounded px-4 py-2 text-black"
               >
-                View Resume{" "}
+                View Resume
                 <i className="fa-solid fa-download text-black ml-2"></i>
               </a>
             </button>
