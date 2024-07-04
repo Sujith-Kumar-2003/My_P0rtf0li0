@@ -39,30 +39,23 @@ To run this project locally, follow these steps:
    git clone https://github.com/sujith-kumar-2003/Portfolio-ReactJs.git
 Navigate to the project directory:
 
-sh
-Copy code
+
 cd Portfolio-ReactJs
 Install the dependencies:
 
-sh
-Copy code
 npm install
+
 Usage
 
 To start the development server, run:
 
-sh
-Copy code
+
 npm run dev
 To build the project for production, run:
 
-sh
-Copy code
 npm run build
 File Structure
-
-plaintext
-Copy code
+```
 Portfolio-ReactJs/
 ├── .github
 ├── .idea
@@ -102,7 +95,7 @@ Portfolio-ReactJs/
 ├── README.md
 ├── tailwind.config.js
 └── vite.config.js
-
+```
 Technologies Used
 
 React.js
