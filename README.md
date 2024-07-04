@@ -116,5 +116,7 @@ Contact
 Feel free to reach out if you have any questions or suggestions!
 
 Email: sujithkumar2003k@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/sujith-kumar-2003cassy/
+
 GitHub: sujith-kumar-2003
