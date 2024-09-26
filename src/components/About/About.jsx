@@ -102,7 +102,8 @@ export default function About({ mode }) {
             </div>
             <button>
               <a
-                  href="https://sujith-kumar-2003.github.io/file/Resume_Updated_Software_Developer.pdf"
+                  hred="/Users/sujithkumaravel/IdeaProjects/My_P0rtf0li0/file/new_resume.pdf"
+                  // href="https://sujith-kumar-2003.github.io/file/new_resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-myColor rounded px-4 py-2 text-black"

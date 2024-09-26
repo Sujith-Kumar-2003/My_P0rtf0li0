@@ -26,7 +26,7 @@ export default function Intro() {
   return (
     <section className="h-screen relative flex">
       <img
-        src="../../images/Back.webp"
+        src="public/Back.webp"
         alt=""
         className="absolute w-full h-full opacity-[.1]"
       />
@@ -57,7 +57,7 @@ export default function Intro() {
           animate={"show"}
         >
           <a
-            href="../file/Resume_Updated_Software_Developer.pdf"
+            href="/Users/sujithkumaravel/IdeaProjects/My_P0rtf0li0/file/new_resume.pdf"
             target="_blank"
             className="bg-myColor rounded px-4 py-2 text-black lg:hidden"
           >
