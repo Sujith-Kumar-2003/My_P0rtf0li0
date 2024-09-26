@@ -26,7 +26,7 @@ export default function Intro() {
   return (
     <section className="h-screen relative flex">
       <img
-        src="public/Back.webp"
+        src="public/images/Back.webp"
         alt=""
         className="absolute w-full h-full opacity-[.1]"
       />
